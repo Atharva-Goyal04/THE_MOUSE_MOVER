@@ -16,4 +16,3 @@ while mins > times:
     os.system("CLS")
     print("****** PROGRAMME RUNNING ******")
     print("\nProgramme has been running for: ", times, 'mins' )
-    # print("Time remaining for programme to end: ", mins - times, 'mins')
